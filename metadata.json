@@ -1,0 +1,6 @@
+{
+  "name": "NexusTrade Crypto Bot",
+  "description": "Production-grade automated crypto perpetuals trading bot with multi-indicator strategy engine, paper trading, and real-time Binance WebSocket streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
